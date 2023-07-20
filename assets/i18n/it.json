@@ -476,7 +476,8 @@
                 "noteTrasferimentoPrenotazione": "Note trasferimento",
                 "agenzia": "Agenzia",
                 "azienda": "Azienda",
-                "statoPrenotazioneWelcome": "Stato prenotazione Welcome"
+                "statoPrenotazioneWelcome": "Stato prenotazione Welcome",
+                "scadOpz": "Scadenza opzione"
             }
         },
         "articoloXPrenotazione": {
@@ -804,7 +805,8 @@
                 "isBookingExtra": "Attivo su booking extra",
                 "voceAddebito": "Voce addebito",
                 "isUpSellingCRM": "Upselling",
-                "isRoomService": "Room service"
+                "isRoomService": "Room service",
+                "isAggiungiATutteLeProposte": "Aggiungi a tutte le proposte"
             }
         },
         "articoloXLingua": {
@@ -1290,7 +1292,10 @@
                 "isVisualizzaRifiutaOffertaMyPage": "Permetti al cliente di rifiutare l'offerta sul MyPage",
                 "urlFacebook": "Url Facebook",
                 "urlInstagram": "Url Instagram",
-                "isProponiNottiCalendarioBooking": "Proponi il numero di notti dopo aver scelto la data di arrivo nel calendario"
+                "isProponiNottiCalendarioBooking": "Proponi il numero di notti dopo aver scelto la data di arrivo nel calendario",
+                "emailMyPage": "Email MyPage",
+                "tipoRichiestaDefault": "Tipo richiesta default",
+                "isDividiCaparraCamere": "Dividi la caparra per tutte le camere"
             }
         },
         "portaleXAlbergoImmagini": {
@@ -1802,6 +1807,7 @@
                 "isDomenica": "Dom",
                 "note": "Note",
                 "isPerNotte": "Applica lo sconto fisso per notte",
+                "isNascondiPromozioniSeVieneInseritoCodicePromozionale": "Nascondi le promozioni se viene inserito il codice promozionale",
                 "oidTariffeAbilitate": "Tariffe abilitate",
                 "oidRisorseAbilitate": "Risorse abilitate",
                 "tipoSconto": "Tipo sconto",
@@ -5180,12 +5186,12 @@
             "p": "Paragrafi",
             "button": "Bottoni",
             "label": "Labels",
-            "h1": "Intestazione 1",
-            "h2": "Intestazione 2",
-            "h3": "Intestazione 3",
-            "h4": "Intestazione 4",
-            "h5": "Intestazione 5",
-            "h6": "Intestazione 6"
+            "H1": "Intestazione 1",
+            "H2": "Intestazione 2",
+            "H3": "Intestazione 3",
+            "H4": "Intestazione 4",
+            "H5": "Intestazione 5",
+            "H6": "Intestazione 6"
         },
         "statoCtaCtd": {
             "aperto": "Aperto",

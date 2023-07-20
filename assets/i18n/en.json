@@ -476,7 +476,8 @@
                 "noteTrasferimentoPrenotazione": "Transfer notes",
                 "agenzia": "Agency",
                 "azienda": "Company",
-                "statoPrenotazioneWelcome": "Welcome reservation status"
+                "statoPrenotazioneWelcome": "Welcome reservation status",
+                "scadOpz": "Option expiration"
             }
         },
         "articoloXPrenotazione": {
@@ -804,7 +805,8 @@
                 "isBookingExtra": "Active for extra booking",
                 "voceAddebito": "Debit entry",
                 "isUpSellingCRM": "Upselling",
-                "isRoomService": "Room service"
+                "isRoomService": "Room service",
+                "isAggiungiATutteLeProposte": "Add to all the proposals"
             }
         },
         "articoloXLingua": {
@@ -1290,7 +1292,10 @@
                 "isVisualizzaRifiutaOffertaMyPage": "Allow the customer to decline the offer on the MyPage",
                 "urlFacebook": "Facebook url",
                 "urlInstagram": "Instagram url",
-                "isProponiNottiCalendarioBooking": "Show the number of nights after selecting the arrival date in the calendar"
+                "isProponiNottiCalendarioBooking": "Show the number of nights after selecting the arrival date in the calendar",
+                "emailMyPage": "MyPage email",
+                "tipoRichiestaDefault": "Default request type",
+                "isDividiCaparraCamere": "Divide the deposit for all the rooms"
             }
         },
         "portaleXAlbergoImmagini": {
@@ -1802,6 +1807,7 @@
                 "isDomenica": "Sun",
                 "note": "Notes",
                 "isPerNotte": "Apply the discount fixed by night",
+                "isNascondiPromozioniSeVieneInseritoCodicePromozionale": "Hide the promotions if this promotional code is inserted",
                 "oidTariffeAbilitate": "Enabled rates",
                 "oidRisorseAbilitate": "Enabled resources",
                 "tipoSconto": "Discount type",
@@ -5180,12 +5186,12 @@
             "p": "Paragraphs",
             "button": "Buttons",
             "label": "Labels",
-            "h1": "Header 1",
-            "h2": "Header 2",
-            "h3": "Header 3",
-            "h4": "Header 4",
-            "h5": "Header 5",
-            "h6": "Header 6"
+            "H1": "Header 1",
+            "H2": "Header 2",
+            "H3": "Header 3",
+            "H4": "Header 4",
+            "H5": "Header 5",
+            "H6": "Header 6"
         },
         "statoCtaCtd": {
             "aperto": "Open",
